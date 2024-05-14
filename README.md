@@ -29,5 +29,5 @@ En esta página encontraran ejercicios de estadistica experimental para Psicolog
 
 |   | Código|
 | - | --- | 
-|ANOVA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Comparación_de_medias.ipynb)|
+|ANOVA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/ANOVA.ipynb)|
 
