@@ -9,7 +9,7 @@ En esta página encontraran ejercicios de estadistica experimental para Psicolog
 |   | Código|
 | - | --- | 
 |Normalidad | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11sQzIXF8or_DusmdcAuQSFdGihv3j5kl#scrollTo=h5rEFXkH8_pz)|
-|Comparación de medias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/EjerciciodeProgramacion_.ipynb)|
+|Comparación de medias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YzydLM7SvuwsnU-J6GUqJ1r3g51Fbh6C#scrollTo=EdCaj1do2zWi)|
 
 |   | Ejercicio | Solucionario | Solucionario |
 | - | --- | ---- | ---- |
