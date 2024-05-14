@@ -22,6 +22,13 @@ En esta página encontraran ejercicios de estadistica experimental para Psicolog
 | Ejercicio 7 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/AnalisisdeDatosCualitativos/PreprocesamientoDeDatosTextuales.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/AnalisisdeDatosCualitativos/Practica_PreprocesamientoDeDatosTextuales.ipynb)| 
 | Ejercicio 8| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/AnalisisdeDatosCualitativos/AnalisisDeDatosTextuales.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/AnalisisdeDatosCualitativos/Practica_AnalisisDeDatosTextuales.ipynb)|
 
+## Exámen
+
+|   | Indicaciones | Solucionario |
+| - | --- | ---- |
+| Exámen Comparación de medias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/EjerciciodeProgramacion_.ipynb)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/EjerciciodeProgramacion_.ipynb)
+| Examen ANOVA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/ProyectoDeAnalisisDeDatosCuantitativos_.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/ProyectoDeAnalisisDeDatosCuantitativos_.ipynb)
+
 ## Anova
 
 |   | Teoría | Práctica | Solucionario |
@@ -35,10 +42,3 @@ En esta página encontraran ejercicios de estadistica experimental para Psicolog
 | Pre-procesamiento de datos textuales | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/AnalisisdeDatosCualitativos/PreprocesamientoDeDatosTextuales.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/AnalisisdeDatosCualitativos/Practica_PreprocesamientoDeDatosTextuales.ipynb)| 
 | Análisis de datos textuales | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/AnalisisdeDatosCualitativos/AnalisisDeDatosTextuales.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/AnalisisdeDatosCualitativos/Practica_AnalisisDeDatosTextuales.ipynb)|
 
-
-## Exámenes
-
-|   | Indicaciones | Solucionario |
-| - | --- | 
-| Exámen Comparación de medias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/EjerciciodeProgramacion_.ipynb)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/EjerciciodeProgramacion_.ipynb)
-| Examen ANOVA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/ProyectoDeAnalisisDeDatosCuantitativos_.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/ProyectoDeAnalisisDeDatosCuantitativos_.ipynb)
