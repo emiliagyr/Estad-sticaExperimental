@@ -8,6 +8,7 @@ En esta página encontraran ejercicios de estadistica experimental para Psicolog
 
 |   | Código|
 | - | --- | 
+|Normalidad | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11sQzIXF8or_DusmdcAuQSFdGihv3j5kl#scrollTo=h5rEFXkH8_pz)|
 |Comparación de medias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/EjerciciodeProgramacion_.ipynb)|
 
 |   | Ejercicio | Solucionario | Solucionario |
