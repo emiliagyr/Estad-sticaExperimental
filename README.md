@@ -29,5 +29,5 @@ En esta página encontraran tutoriales y ejercicios para en análisis de datos e
 
 |   | Código|
 | - | --- | 
-|ANOVA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/ANOVA.ipynb)|
+|ANOVA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/ANOVA.ipynb)|
 
