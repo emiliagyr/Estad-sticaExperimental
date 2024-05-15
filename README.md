@@ -2,7 +2,7 @@
 
 ¡Bienvenidos! 
 
-En esta página encontraran ejercicios de estadistica experimental para Psicología
+En esta página encontraran tutoriales y ejercicios para en análisis de datos en el curso de Estadistica Experimental para Psicología
 
 ## Comparación de medias
 
