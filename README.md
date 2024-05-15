@@ -4,12 +4,15 @@
 
 En esta página encontraran tutoriales y ejercicios para en análisis de datos en el curso de Estadistica Experimental para Psicología
 
-## Comparación de medias
+## Tutoriales
 
-|   | Código|
+|   | Guía|
 | - | --- | 
 |Normalidad | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Normalidad.ipynb)|
-|Comparación de medias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Comparación_de_medias.ipynb)|
+|Comparación de 2 muestras | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Comparación_de_medias.ipynb)|
+|Comparación de k muestras | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/ANOVA.ipynb)|
+
+## Comparación de 2 muestras
 
 |   | Ejercicio | Solucionario |
 | - | --- | ---- |
@@ -18,19 +21,14 @@ En esta página encontraran tutoriales y ejercicios para en análisis de datos e
 | Ejercicio 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Ejercicio_3.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/P3_Yoga.ipynb)|
 | Ejercicio 4| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Ejercicio_4.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 
-
-## Exámen
-
-|   | Indicaciones | Solucionario |
-| - | --- | ---- |
-| Exámen Comparación de medias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Examen_1_Indicaciones.ipynb)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Examen_1_Solución.ipynb)
-
-## Anova
-
-|   | Código|
-| - | --- | 
-|ANOVA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/ANOVA.ipynb)|
+## Comparación de k muestras
 
 |   | Ejercicio | Solucionario |
 | - | --- | ---- |
 | Ejercicio 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Ejercicio2_ANOVA.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Ejercicio2_ANOVA_Solucion.ipynb)|
+
+## Exámenes
+
+|   | Indicaciones | Solucionario |
+| - | --- | ---- |
+| Exámen Comparación de medias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Examen_1_Indicaciones.ipynb)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Examen_1_Solución.ipynb)
