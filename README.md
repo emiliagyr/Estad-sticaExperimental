@@ -33,4 +33,4 @@ En esta página encontraran tutoriales y ejercicios para en análisis de datos e
 
 |   | Ejercicio | Solucionario |
 | - | --- | ---- |
-| Ejercicio 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Ejercicio_1.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/P1_PCI.ipynb)|
+| Ejercicio 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Ejercicio2_ANOVA.ipynb)|[![Open In Colab](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Ejercicio2_ANOVA_Solucion.ipynb)|
