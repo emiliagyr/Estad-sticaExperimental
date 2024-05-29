@@ -34,7 +34,7 @@ En esta página encontraran tutoriales y ejercicios para en análisis de datos e
 
 |   | Ejercicio | Solucionario |
 | - | --- | ---- |
-| Ejercicio 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Ejercicio1_ANOVA2vias.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+| Ejercicio 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Ejercicio1_ANOVA2vias.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/2vias_sol1.ipynb)|
 | Ejercicio 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/emiliagyr/EstadisticaExperimental/blob/main/Colab/2vias_eje2.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/2vias_sol2.ipynb)|
 
 ## Exámenes
