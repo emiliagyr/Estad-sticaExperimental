@@ -9,7 +9,7 @@ En esta página encontraran tutoriales y ejercicios para en análisis de datos e
 |   | Guía|
 | - | --- | 
 |Normalidad | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Normalidad.ipynb)|
-|Comparación de 2 muestras | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/emiliagyr/EstadisticaExperimental/blob/main/Colab/Comparacionmedias.ipynb)|
+|Comparación de 2 muestras | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Comparacionmedias.ipynb)|
 |Comparación de k muestras | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/ANOVA.ipynb#scrollTo=9nT1Mryfc-d1)|
 
 ## Comparación de 2 muestras
