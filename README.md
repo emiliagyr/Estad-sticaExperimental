@@ -41,4 +41,5 @@ En esta página encontraran tutoriales y ejercicios para en análisis de datos e
 
 |   | Indicaciones | Solucionario |
 | - | --- | ---- |
-| Exámen Comparación de medias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Examen_1_Indicaciones.ipynb)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Examen_1_Solución.ipynb)
+| Exámen 2 muestras | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Examen_1_Indicaciones.ipynb)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Examen_1_Solución.ipynb)
+| Exámen k muestras | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Colab/Examen_2_Solución.ipynb)
